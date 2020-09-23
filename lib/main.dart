@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_webview_plugin/flutter_webview_plugin.dart';
 
 void main() {
   runApp(MaterialApp(home: MyApp(),));
@@ -7,6 +8,11 @@ void main() {
 class  MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return Scaffold(appBar: AppBar(title: Text("Tech-Gram Academy App"),),);
+    return SafeArea(
+      child: WebviewScaffold(
+//      appBar: AppBar(title:Text("Google")),
+        url: "https://youtube.com/c/TechGramAcademy",
+      ),
+    );
   }
 }
