@@ -7,5 +7,7 @@ To download application - <a href="https://github.com/TechGram-Academy/my-websit
 
 <h2> Screenshots </h2>
 
-<img src="screenshots/screenshot.png" width="256"/>
-<img src="screenshots/demo.gif" width = "256"/>
+<div>
+<img src="screenshots/screenshot.png" width="256" style="display:inline-block;"/>
+<img src="screenshots/demo.gif" width = "256" style="display:inline-block;"/>
+</div>
