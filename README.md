@@ -1,13 +1,16 @@
-<h1> My website</h1>
+# my_website
 
-This application is a part of a course. To see  <a href="https://www.youtube.com/watch?v=DG5LBa2lAfE&list=PLjC8JXsSUrrhTkfCs3P_Gp_Q31YFravzm">Click here</a> <br>
+My wesbite application
 
-To download application - <a href="https://github.com/TechGram-Academy/my-website/raw/master/app-release.apk">Click here</a>
+## Getting Started
 
+This project is a starting point for a Flutter application.
 
-<h2> Screenshots </h2>
+A few resources to get you started if this is your first Flutter project:
 
-<div>
-<img src="screenshots/screenshot.png" width="256" style="display:inline-block;"/>
-<img src="screenshots/demo.gif" width = "256" style="display:inline-block;"/>
-</div>
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
