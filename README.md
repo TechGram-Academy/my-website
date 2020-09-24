@@ -5,8 +5,8 @@ To download this application - <a href="https://github.com/TechGram-Academy/my-w
 
 <h2> Screenshots </h2> 
 
-<img src="Screenshots/screenshot.png"  />
-<img src="Screenshots/demo.gif"  />
+<img src="Screenshots/screenshot.png" width=256 style="display:inline-block"/>
+<img src="Screenshots/demo.gif" width=256 style="display:inline-block"/>
 
 
 
